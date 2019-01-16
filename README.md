@@ -1,7 +1,7 @@
 # Continuous Control
 
 # Environment
-- the state and action spaces, and when the environment is considered solved).
+- the state and action spaces, and when the environment is considered solved.
 
 # Getting Started
 1. Install jupyter. (See [this](https://jupyter.readthedocs.io/en/latest/install.html))
