@@ -4,7 +4,7 @@
 - the state and action spaces, and when the environment is considered solved).
 
 # Getting Started
-    -. Install jupyter. See [this](https://jupyter.readthedocs.io/en/latest/install.html)
+- Install jupyter. See [this](https://jupyter.readthedocs.io/en/latest/install.html)
 1. Clone this repository.
 1. Download runtime environment (runtime builded by Unity) for your platform.
     - 1 Agent
